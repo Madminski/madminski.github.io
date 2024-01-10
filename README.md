@@ -12,4 +12,4 @@
 - <a href="https://madminski.github.io/PCDE-Activity-9.1/"> PCDE-Activity 9.1</a>
 
 ### README.md Markdown Template
-- <a href="https://github.com/Madminski/Mini-Lesson-9.4"> README.md Markdown Template</a>
+- <a href="https://madminski.github.io/Mini-Lesson-9.4/"> README.md Markdown Template</a>
