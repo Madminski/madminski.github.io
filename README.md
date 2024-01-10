@@ -7,3 +7,6 @@
 
 ### ETL Notebook on MRTS Dataset
 - Private repo currently : <a href="https://github.com/Madminski/data_engineering/blob/master/notebooks/Module%208_Final_Project.ipynb"> ETL Notebook - MRTS</a>
+
+### Activity 9.2
+- <a href="https://madminski.github.io/PCDE-Activity-9.1/"> PCDE-Activity 9.1</a>
